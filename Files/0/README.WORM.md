@@ -24,7 +24,6 @@ repository.
 The organization is intended to support reliability and
 [reproducibility](https://www.nap.edu/catalog/25303/reproducibility-and-replicability-in-science).
 
-1234567890123456789012345678901234567890123456789012345678901234
 The highest level of organization is according to the policy and
 intended discipline of the corresponding components:
 
