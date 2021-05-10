@@ -16,7 +16,7 @@ Organization
 ------------
 
 Shapiro is organized into several repositories.
-The "Shapiro" [reposiory](https://github.com/dmparrishphd/Shapiro)
+The "Shapiro" [repository](https://github.com/dmparrishphd/Shapiro)
 is (as of 2021-05-10) a
 [write once, read many times](https://en.wikipedia.org/wiki/Write_once_read_many)
 repository.
