@@ -10,7 +10,7 @@ data analysis and numerical modelling (mostly pre- and post-processing).
 
 Forthcoming: Suggested configurations.
 
-[Index](./Files/3/4/0/index.md)
+[Index](https://github.com/dmparrishphd/Shapiro/blob/master/Files/3/4/0/index.md)
 
 Organization
 ------------
