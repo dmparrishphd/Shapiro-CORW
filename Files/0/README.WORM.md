@@ -1,8 +1,3 @@
-The Shapiro Repository
-======================
-
-
-
 Shapiro
 =======
 
@@ -20,26 +15,43 @@ Forthcoming: Suggested configurations.
 Organization
 ------------
 
-Now (2020-01-30) that the reorganization is complete,
-I intend that the _R code_ under the
-[Files](./Files),
-[Mirrors](./Mirrors), and
-[Pkgs](./Pkgs)
-directories will never change and will never move.
-The file names and paths, _relavive to the repository root_, are fixed.
-A discipline like this is necessary for reliability and
+Shapiro is organized into several repositories.
+The "Shapiro" [reposiory](https://github.com/dmparrishphd/Shapiro)
+is (as of 2021-05-10) a
+[write once, read many times](https://en.wikipedia.org/wiki/Write_once_read_many)
+repository.
+
+The organization is intended to support reliability and
 [reproducibility](https://www.nap.edu/catalog/25303/reproducibility-and-replicability-in-science).
 
-I do _not_ promise to adhere to the same discipline for all _other types of files_,
-nor for the R files in other directories.
-Specifically, files in the [Dev](./Dev) directory are volatile.
-Markdown (extension .md) files, in particular are volatile,
-although I do not anticipate deleting any Markdown files.
-Allowing for volatility in the Markdown files allows me to make changes to the documentation,
-e.g., to better represent what the code is doing.
+1234567890123456789012345678901234567890123456789012345678901234
+The highest level of organization is according to the policy and
+intended discipline of the corresponding components:
+
+ - [Shapiro](
+https://github.com/dmparrishphd/Shapiro
+) (WORM) _write once, read many times_
+
+ - [Shapiro-CORA](
+https://github.com/dmparrishphd/Shapiro-CORA
+) _create once, read and append many times_
+
+ - [Shapiro-CORW](
+https://github.com/dmparrishphd/Shapiro-CORW
+) _create once, read and write many times_
+
+ - [Shapiro-DYNA](
+https://github.com/dmparrishphd/Shapiro-DYNA
+) _dynamic / volatile_
+
+Updates
+-------
 
 **Shapiro changes by the addition** of new files,
 _not_ by breaking code and mutilating existing files.
+
+Versions
+--------
 
 **Shapiro does not have "versions."**
 Components either exist or not.
