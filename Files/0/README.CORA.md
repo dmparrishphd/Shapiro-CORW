@@ -1,5 +1,5 @@
-Shapiro-CORA
-============
+The Shapiro-CORA Repository
+===========================
 
 "Create Once, Read and Append Many Times"
 
