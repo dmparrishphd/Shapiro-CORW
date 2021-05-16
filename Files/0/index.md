@@ -12,7 +12,7 @@ Index of Indices
 
 by Filename (forthcoming)
 
-[by Subject / Topic](https://github.com/dmparrishphd/Shapiro/blob/master/Files/3/5/0/indexSubj.md)
+[by Subject / Topic](./indexSubj.md)
 
 
 Index of symbols; _tells what symbols are defined in each R file._
