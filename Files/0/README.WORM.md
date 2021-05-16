@@ -58,7 +58,7 @@ https://github.com/dmparrishphd/Shapiro
 are discussed under
 [Emigration](
 ./worm.emigration.md
-)
+).
 
 Versions
 --------
