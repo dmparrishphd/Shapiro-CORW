@@ -48,6 +48,17 @@ Updates
 
 **Shapiro changes by the addition** of new files,
 _not_ by breaking code and mutilating existing files.
+The foregoing applies to R files only.
+Documentation (typically in "md" files), for example, may be revised.
+
+Updates of non-R files originally created at
+[Shapiro](
+https://github.com/dmparrishphd/Shapiro
+) (WORM)
+are discussed under
+[Emigration](
+./0/worm.emigration.md
+)
 
 Versions
 --------
