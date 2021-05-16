@@ -4,11 +4,13 @@ matches
 Usage
 -----
 
-_forthcoming_
+    matches(x, Table, ...)
 
-| Argument | Description     |
-| -------: | :-------------- |
-|    `...` | passed to match |
+| Argument | Description       |
+| -------: | :---------------- |
+|      `x` | passed to `match` |
+|  `Table` | see Details       |
+|    `...` | passed to `match` |
 
 Details
 -------
