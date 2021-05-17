@@ -34,6 +34,10 @@ Emigration Status
 | `Files/1/3/2/0/lines_extract.fn.md` |
 | `Files/1/5/2/0/dense.md` |
 | `Files/1/5/2/0/find.breakpoint.md` |
+| |
+| `Files/1/5/2/0/package.index.md`|
+| [Modifiable Copy](../1/0/package.index.md) |
+| |
 | `Files/1/5/2/0/unique.df.md` |
 | `Files/1/5/3/0/det2.md` |
 | `Files/1/5/4/0/configu.md` |
@@ -43,16 +47,50 @@ Emigration Status
 | `Files/1/5/4/0/prerequsites.dat` |
 | `Files/2/1/1/0/RamDisc.md` |
 | `Files/2/1/2/0/tukey.fence.md` |
+| `Files/2/1/2/0/symbols.files.md` |
+| |
+| [Modifiable Copy](./symbols.files.md) |
+| |
+| `Files/2/1/2/0/symbols.files.dat` |
+| [Appendable Copy](https://github.com/dmparrishphd/Shapiro-CORA/blob/main/Files/0/symbols.files.dat) |
+| |
 | `Files/2/1/2/0/unformat.except.newline.md` |
 | `Files/2/4/0/extend_len` |
 | `Files/3/2/0/PD.pp.PD.lpp` |
 | `Files/3/3/0/PD.vector_classes_` |
 | `Files/3/4/0/ftopEnv.md` |
+| |
+| `Files/3/4/0/index.md` |
+| [Modifiable Copy](./index.md) |
+| |
 | `Files/3/5/0/Daisy.README.pdf` |
 | `Files/3/5/0/grids.a` |
 | `Files/3/5/0/grids.i` |
+| |
+| `Files/3/5/0/indexSubj.md` |
+| [Modifiable Copy](./indexSubj.md) |
+||
+| `Files/3/6/0/indexSubjColorWords.md` |
+| [Modifiable Copy](../1/0/indexSubjColorWords.md) |
+||
+| `Files/3/6/0/indexSubjPal.md` |
+| [Modifiable Copy](../1/0/indexSubjPal.md) |
+||
+| `Files/3/6/0/indexSubjRandom.md` |
+| [Modifiable Copy](../1/0/indexSubjRandom.md) |
+||
+| `Files/4/2/0/indexExtract.md`
+| [Modifiable Copy](./indexExtract.md) |
+||
 | `Files/4/5/0/r.d` |
 | `Files/5/0/PD.hclh64` |
+||
+| `Files/6/5/0/indexArithmetic.md` |
+[Modifiable Copy](./0/indexArithmetic.md) |
+||
+| `Files/7/4/0/glossaryAffixes.md` |
+| [Modifiable Copy](.0/glossaryAffixes.md) |
+||
 | `Files/7/5/0/linegraph.md` |
 | `Files/7/5/0/mi.core.md` |
 | `Files/7/5/0/mtext.side.h.md` |
