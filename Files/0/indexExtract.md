@@ -4,7 +4,7 @@ _Expect most links to be broken until construction is finished.
 In the mean time, a look at the source for this page may provide a clue
 about what the new links will be._
 
-# Extraction
+# Extract, Extraction
 
 with _array_ as index [`%[a%`](https://github.com/dmparrishphd/Shapiro/blob/master/Files/2/0/PC.LB.a.PC.R)
 
