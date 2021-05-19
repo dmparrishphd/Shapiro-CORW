@@ -15,7 +15,16 @@ Forthcoming: Suggested configurations.
 Organization
 ------------
 
-Shapiro is organized into several repositories.
+Shapiro is organized into several repositories according to the
+[storage discipline](https://github.com/dmparrishphd/repos/blob/main/Files/CORW/0/conventions.md#storageDiscipline)
+applied to file and directory maintenance:
+
+ - [main](https://github.com/dmparrishphd/Shapiro)
+ - [CORA](https://github.com/dmparrishphd/Shapiro-CORA)
+ - [CORW](https://github.com/dmparrishphd/Shapiro-CORW)
+ - [DYNA](https://github.com/dmparrishphd/Shapiro-DYNA)
+ - [WORM](https://github.com/dmparrishphd/Shapiro)
+
 The "Shapiro" [repository](https://github.com/dmparrishphd/Shapiro)
 is (as of 2021-05-10) a
 [write once, read many times](https://en.wikipedia.org/wiki/Write_once_read_many)
