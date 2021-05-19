@@ -15,42 +15,17 @@ Forthcoming: Suggested configurations.
 Organization
 ------------
 
-Shapiro is organized into several repositories according to the
+Shapiro is, at the highest level, organized into several repositories according to the
 [storage discipline](https://github.com/dmparrishphd/repos/blob/main/Files/CORW/0/conventions.md#storageDiscipline)
 applied to file and directory maintenance:
 
- - [main](https://github.com/dmparrishphd/Shapiro)
- - [CORA](https://github.com/dmparrishphd/Shapiro-CORA)
- - [CORW](https://github.com/dmparrishphd/Shapiro-CORW)
- - [DYNA](https://github.com/dmparrishphd/Shapiro-DYNA)
- - [WORM](https://github.com/dmparrishphd/Shapiro)
-
-The "Shapiro" [repository](https://github.com/dmparrishphd/Shapiro)
-is (as of 2021-05-10) a
-[write once, read many times](https://en.wikipedia.org/wiki/Write_once_read_many)
-repository.
-
+ - [WORM / main](https://github.com/dmparrishphd/Shapiro) (a.k.a., _Shapiro_)
+ - [CORA](https://github.com/dmparrishphd/Shapiro-CORA) (_Shapiro-CORA_)
+ - [CORW](https://github.com/dmparrishphd/Shapiro-CORW) (_Shapiro-CORW_)
+ - [DYNA](https://github.com/dmparrishphd/Shapiro-DYNA) (_Shapiro-DYNA_)
+ 
 The organization is intended to support reliability and
 [reproducibility](https://www.nap.edu/catalog/25303/reproducibility-and-replicability-in-science).
-
-The highest level of organization is according to the policy and
-intended discipline of the corresponding components:
-
- - [Shapiro](
-https://github.com/dmparrishphd/Shapiro
-) (WORM) _write once, read many times_
-
- - [Shapiro-CORA](
-https://github.com/dmparrishphd/Shapiro-CORA
-) _create once, read and append many times_
-
- - [Shapiro-CORW](
-https://github.com/dmparrishphd/Shapiro-CORW
-) _create once, read and write many times_
-
- - [Shapiro-DYNA](
-https://github.com/dmparrishphd/Shapiro-DYNA
-) _dynamic / volatile_
 
 Updates
 -------
