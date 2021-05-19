@@ -2,7 +2,7 @@ Shapiro-CORW
 ============
 
 This repository is part of
-[Shapiro](https://github.com/dmparrishphd/Shapiro).
+[Shapiro](./Files/0/README.WORM.md)
 
 Among other things, it stores an
 [index](./Files/0/index.md)
