@@ -4,9 +4,16 @@ _Expect most links to be broken until construction is finished.
 In the mean time, a look at the source for this page may provide a clue
 about what the new links will be._
 
-# Subject Index
+Subject Index
+=============
 
-## array, arrays
+Arithmetic
+----------
+
+_See_ [arithmetic](./indexArithmetic.md) _subject index_
+
+array, arrays
+-------------
 
 ragged array, index [i.ragged.table.R](https://github.com/dmparrishphd/Shapiro/blob/master/Files/6/6/0/i.ragged.table.R)
 
@@ -16,59 +23,51 @@ ragged array, index [i.ragged.table.R](https://github.com/dmparrishphd/Shapiro/b
 
 dimensions, enumeration of [dimNos.R](https://github.com/dmparrishphd/Shapiro/blob/master/Files/6/5/0/dimNos.R)
 
-## character
+character
+---------
 
 [nchar_max](https://github.com/dmparrishphd/Shapiro/blob/master/Files/4/1/0/nchar_max.R)
 
 parse words from string [words.R](https://github.com/dmparrishphd/Shapiro/blob/master/Files/6/3/0/words.R)
 
-## Color
+Color
+-----
 
-[Color Words](https://github.com/dmparrishphd/Shapiro/blob/master/Files/3/6/0/indexSubjColorWords.md))
-
-`colors` [find_colors](https://github.com/dmparrishphd/Shapiro/blob/master/Files/2/5/0/find_colors.R)
-
-[wash.R](https://github.com/dmparrishphd/Shapiro/blob/master/Files/6/1/0/wash.R)
-
-[Palettes](https://github.com/dmparrishphd/Shapiro/blob/master/Files/3/6/0/indexSubjPal.md)
+_See_ [color](../2/0/indexSubjColor.md) _subject index_
 
 ## Data Frame, data.frame
 
-[data_frame](https://github.com/dmparrishphd/Shapiro/blob/master/Files/7/3/0/data-frame.R)
+[data.frame subject index](1/0/indexSubjDataFrame.md)
 
-[fn.df.R](https://github.com/dmparrishphd/Shapiro/blob/master/Files/4/3/0/fn.df.R)
-
-[unique.df.R](../../..//1/5/2/0/unique.df.R) [unique.df.md](../../../1/5/2/0/unique.df.md)
-
-## Dates (Calendar)
+Dates (Calendar)
+----------------
 
 See also [ISO-8601](https://en.wikipedia.org/wiki/ISO_8601#:~:text=From%20Wikipedia%2C%20the%20free%20encyclopedia%20ISO%208601%20Data,Standardization%20%28ISO%29%20and%20was%20first%20published%20in%201988.)
 
 "m/d/y" style to ISO-8601
 [isodates.mdy.R](https://github.com/dmparrishphd/Shapiro/blob/master/Files/7/4/0/isodates.mdy.R)
 
-## Extraction
+Extraction
+----------
 
-[extraction](https://github.com/dmparrishphd/Shapiro/blob/master/Files/4/2/0/indexExtract.md))
+_See_ [extraction](./indexExtract.md) _subject index_
 
-along a dimension of an `array` or `data.frame`
-[mi.core.R](https://github.com/dmparrishphd/Shapiro/blob/master/Files/7/5/0/mi.core.R)
-[mi.core.md](https://github.com/dmparrishphd/Shapiro/blob/master/Files/7/5/0/mi.core.md)
-[core.R](https://github.com/dmparrishphd/Shapiro/blob/master/Files/7/7/0/core.R)
-
-## Files
+Files
+-----
 
 ftopEnv [1](https://github.com/dmparrishphd/Shapiro/blob/master/Files/3/4/0/ftopEnv.md),
 [2](https://github.com/dmparrishphd/Shapiro/blob/master/Files/3/4/0/ftopEnv.R),
 [3](https://github.com/dmparrishphd/Shapiro/tree/master/Files/3/4/0),
 
-## Formatting
+Formatting
+----------
 
 _Functions for converting values to `character` strings or `character` arrays_
 
 from `double` [h.i.format.d.R](https://github.com/dmparrishphd/Shapiro/blob/master/Files/3/6/0/h.i.format.d.R)
 
-## (Un)Formatting
+(Un)Formatting
+--------------
 
 [unformat.except.newline.R](https://github.com/dmparrishphd/Shapiro/blob/master/Files/7/6/0/unformat.except.newline.R)
 [unformat.except.newline.R](https://github.com/dmparrishphd/Shapiro/blob/master/Files/7/7/0/unformat.except.newline.R)
@@ -94,6 +93,11 @@ slices [islice.R](https://github.com/dmparrishphd/Shapiro/blob/master/Files/7/4/
 line, given two points
 [line.pp.R](https://github.com/dmparrishphd/Shapiro/blob/master/Files/7/4/0/line.pp.R)
 
+Lookup
+------
+
+_See_ [lookup](../1/0/indexSubjLookup.md) _subject index_
+
 ## Graphics
 
 ### Device Setup
@@ -118,9 +122,10 @@ replacement, element-wise [infill](https://github.com/dmparrishphd/Shapiro/blob/
 [nand](https://github.com/dmparrishphd/Shapiro/blob/master/Files/4/1/0/nand.R),
 [none](https://github.com/dmparrishphd/Shapiro/blob/master/Files/4/2/0/none.R)
 
-## Lookup
+Lookup
+------
 
-[look.R](https://github.com/dmparrishphd/Shapiro/blob/master/Files/6/7/0/look.R)
+_See_ [lookup](../1/0/indexSubjLookup.md) _subject index_
 
 ### NA
 
@@ -152,7 +157,7 @@ centroid [centroids.R](https://github.com/dmparrishphd/Shapiro/blob/master/Files
 
 ## Random (Numbers)
 
-(See [random](https://github.com/dmparrishphd/Shapiro/blob/master/Files/3/6/0/indexSubjRandom.md))
+_See_ [random](../1/0/indexSubjRandom.md) _subject index_
 
 ## Remove, "rm"
 
