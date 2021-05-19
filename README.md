@@ -1,7 +1,12 @@
 Shapiro-CORW
 ============
 
-This repository is part of Shapiro.
+This repository is part of
+[Shapiro](https://github.com/dmparrishphd/Shapiro).
+
+Among other things, it stores an
+[index](./Files/0/index.md)
+of Shapiro.
 
 Discipline and Policy
 ---------------------
