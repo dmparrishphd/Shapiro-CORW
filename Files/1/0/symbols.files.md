@@ -16,5 +16,4 @@ directory of the
 repository) to an R file.
 The remaining items in the list are symbols defined in the file indicated.
 Long lines are avoided by repeating the R file name on another line and continuing the list of symbols.
-
-
+File paths and symbols may _not_ have embedded spaces.
