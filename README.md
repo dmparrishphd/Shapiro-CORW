@@ -1,6 +1,10 @@
-# Shapiro-CORW
+Shapiro-CORW
+============
 
 This repository is part of Shapiro.
+
+Discipline and Policy
+---------------------
 
 Files in this repository are intended to be "Create Once, Read and Write Many Times:"
 
