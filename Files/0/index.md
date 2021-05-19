@@ -6,13 +6,14 @@ about what the new links will be._
 
 [Home](https://github.com/dmparrishphd/Shapiro/blob/master/README.md)
 
-Affixes
-=======
-
-[i.e., prefixes, suffixes, and infixes](https://github.com/dmparrishphd/Shapiro/blob/master/Files/7/4/0/glossaryAffixes.md)
 
 Index of Indices
 ================
+
+[Abbreviations](./abbreviations.md)
+
+[Affixes](./glossaryAffixes.md)
+(i.e., prefixes, suffixes, and infixes)
 
 [Bugs](https://github.com/dmparrishphd/Shapiro/blob/master/Files/1/1/7/0/bugs.md)
 
