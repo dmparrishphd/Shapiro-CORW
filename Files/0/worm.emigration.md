@@ -1,7 +1,9 @@
 Emigration
 ==========
 
-Certain files that are part of the WORM repository were
+Certain files that are part of the
+[WORM](https://github.com/dmparrishphd/Shapiro)
+repository were
 originally intended to be other than read-only. Subsequently,
 The Shapiro project has been reorganized according to file
 discipline / policy.
