@@ -30,3 +30,6 @@ Index of symbols; _tells what symbols are defined in each R file._
 [Packages](../../../1/5/2/0/package.index.md)
 
 [Configurations](../../../1/5/4/0/configurations.md)
+
+[Symbols](https://github.com/dmparrishphd/Shapiro-CORA/blob/main/Files/0/symbols.files.dat)
+_maps certain files to the symbols defined therein_
